@@ -1,0 +1,1312 @@
+[
+  {
+    "id": "modal-viscose",
+    "slug": "modal-viscose",
+    "name": "Viscose Polos",
+    "category": "Pashmina",
+    "material": "Modal Viscose",
+    "retailPrice": 48000,
+    "pricingStatus": "verified",
+    "description": "Siluet pashmina klasik berbahan Modal Viscose. Jelajahi seluruh pilihan warna untuk menemukan padanan yang terasa seperti kamu.",
+    "measurements": null,
+    "images": [
+      "modal.webp",
+      "modal-alt.webp"
+    ],
+    "variants": [
+      {
+        "id": "coffee-latte",
+        "name": "Coffee Latte",
+        "contain": true,
+        "hex": "#8f6d61",
+        "family": "Taupe",
+        "image": "shade-f2c13163456b27.webp"
+      },
+      {
+        "id": "mahogany",
+        "name": "Mahogany",
+        "contain": true,
+        "hex": "#4d2a27",
+        "family": "Taupe",
+        "image": "shade-185c92f1bd0101.webp"
+      },
+      {
+        "id": "beige",
+        "name": "Beige",
+        "contain": true,
+        "hex": "#a47861",
+        "family": "Taupe",
+        "image": "shade-34276d41624829.webp"
+      },
+      {
+        "id": "dusty",
+        "name": "Dusty",
+        "contain": true,
+        "hex": "#8a585c",
+        "family": "Taupe",
+        "image": "shade-ffa5358156dca0.webp"
+      },
+      {
+        "id": "iron",
+        "name": "Iron",
+        "contain": true,
+        "hex": "#3b2f2e",
+        "family": "Taupe",
+        "image": "shade-5ad26164004fe5.webp"
+      },
+      {
+        "id": "white",
+        "name": "White",
+        "contain": true,
+        "hex": "#abafae",
+        "family": "Putih",
+        "image": "shade-8f47256b1b15fc.webp"
+      },
+      {
+        "id": "jeans",
+        "name": "Jeans",
+        "contain": true,
+        "hex": "#4f4b5e",
+        "family": "Biru",
+        "image": "shade-1b293ee184e56a.webp"
+      },
+      {
+        "id": "almond-beige",
+        "name": "Almond Beige",
+        "contain": true,
+        "hex": "#8b7d63",
+        "family": "Taupe",
+        "image": "shade-b750adc1b4433c.webp"
+      },
+      {
+        "id": "soft-lilac",
+        "name": "Soft Lilac",
+        "contain": true,
+        "hex": "#a18793",
+        "family": "Lavender",
+        "image": "shade-dffe7085a4c1d1.webp"
+      },
+      {
+        "id": "machiato",
+        "name": "Machiato",
+        "contain": true,
+        "hex": "#8f7557",
+        "family": "Taupe",
+        "image": "shade-df29c4d19c5a29.webp"
+      },
+      {
+        "id": "powder-pink",
+        "name": "Powder Pink",
+        "contain": true,
+        "hex": "#996b68",
+        "family": "Pink",
+        "image": "shade-207015ac47d2cd.webp"
+      },
+      {
+        "id": "sand",
+        "name": "Sand",
+        "contain": true,
+        "hex": "#997662",
+        "family": "Taupe",
+        "image": "shade-9b6fcd323eae4e.webp"
+      },
+      {
+        "id": "dark-oat",
+        "name": "Dark Oat",
+        "contain": true,
+        "hex": "#896d67",
+        "family": "Taupe",
+        "image": "shade-07766b5bd83c11.webp"
+      },
+      {
+        "id": "fossil",
+        "name": "Fossil",
+        "contain": true,
+        "hex": "#412a26",
+        "family": "Taupe",
+        "image": "shade-93f4aa28f4a405.webp"
+      },
+      {
+        "id": "butter-yellow",
+        "name": "Butter Yellow",
+        "contain": true,
+        "hex": "#bbae87",
+        "family": "Taupe",
+        "image": "shade-491bf49d5f4642.webp"
+      },
+      {
+        "id": "royal-pink",
+        "name": "Royal Pink",
+        "contain": true,
+        "hex": "#aa7981",
+        "family": "Pink",
+        "image": "shade-96ac65d518f1c2.webp"
+      },
+      {
+        "id": "deep-almond",
+        "name": "Deep Almond",
+        "contain": true,
+        "hex": "#8a6856",
+        "family": "Taupe",
+        "image": "shade-244a9905df5eea.webp"
+      },
+      {
+        "id": "deep-charcoal",
+        "name": "Deep Charcoal",
+        "contain": true,
+        "hex": "#958177",
+        "family": "Hitam",
+        "image": "shade-39e7a31da2cc7c.webp"
+      },
+      {
+        "id": "rose-quartz",
+        "name": "Rose Quartz",
+        "contain": true,
+        "hex": "#b07d7c",
+        "family": "Pink",
+        "image": "shade-6bc01fd42d189a.webp"
+      },
+      {
+        "id": "coffee",
+        "name": "Coffee",
+        "contain": true,
+        "hex": "#542527",
+        "family": "Taupe",
+        "image": "shade-3b601a8caf939f.webp"
+      },
+      {
+        "id": "wine",
+        "name": "Wine",
+        "contain": true,
+        "hex": "#3b0929",
+        "family": "Pink",
+        "image": "shade-381d1c19bce3f3.webp"
+      },
+      {
+        "id": "flint",
+        "name": "Flint",
+        "contain": true,
+        "hex": "#896070",
+        "family": "Taupe",
+        "image": "shade-be35a1efa3165d.webp"
+      },
+      {
+        "id": "silver",
+        "name": "Silver",
+        "contain": true,
+        "hex": "#a3898a",
+        "family": "Taupe",
+        "image": "shade-ab2e7464d500f5.webp"
+      },
+      {
+        "id": "dark-latte",
+        "name": "Dark Latte",
+        "contain": true,
+        "hex": "#866359",
+        "family": "Taupe",
+        "image": "shade-2a10c6caea38cd.webp"
+      },
+      {
+        "id": "black",
+        "name": "Black",
+        "contain": true,
+        "hex": "#0e0b15",
+        "family": "Hitam",
+        "image": "shade-2d2ee12c616de2.webp"
+      },
+      {
+        "id": "maroon",
+        "name": "Maroon",
+        "contain": true,
+        "hex": "#5f0e2e",
+        "family": "Pink",
+        "image": "shade-278bbcbdea7bae.webp"
+      },
+      {
+        "id": "charcoal",
+        "name": "Charcoal",
+        "contain": true,
+        "hex": "#a08b81",
+        "family": "Hitam",
+        "image": "shade-4debced0baf418.webp"
+      },
+      {
+        "id": "grey",
+        "name": "Grey",
+        "contain": true,
+        "hex": "#9a888b",
+        "family": "Taupe",
+        "image": "shade-e52eda9b978113.webp"
+      },
+      {
+        "id": "navy",
+        "name": "Navy",
+        "contain": true,
+        "hex": "#1a1436",
+        "family": "Hitam",
+        "image": "shade-7b66697c231b0d.webp"
+      },
+      {
+        "id": "storm",
+        "name": "Storm",
+        "contain": true,
+        "hex": "#846f6e",
+        "family": "Taupe",
+        "image": "shade-39d8d6b99abba6.webp"
+      },
+      {
+        "id": "choco",
+        "name": "Choco",
+        "contain": true,
+        "hex": "#7e5f5a",
+        "family": "Taupe",
+        "image": "shade-155a28ee2856eb.webp"
+      },
+      {
+        "id": "dark-beige",
+        "name": "Dark Beige",
+        "contain": true,
+        "hex": "#a8785a",
+        "family": "Taupe",
+        "image": "shade-73d8c3f51e86c1.webp"
+      }
+    ],
+    "colorFamily": "Putih",
+    "featured": true,
+    "availabilityStatus": "confirm",
+    "pricingSource": "brand",
+    "aliases": [
+      "Pasmina Modal Viscose"
+    ],
+    "legacyVariants": [
+      {
+        "id": "putih",
+        "name": "Putih",
+        "hex": "#eee9de",
+        "image": "modal.webp"
+      }
+    ],
+    "modelImages": [
+      "modal.webp",
+      "modal-alt.webp"
+    ]
+  },
+  {
+    "id": "viscose-gradasi",
+    "slug": "viscose-gradasi",
+    "name": "Viscose Gradasi",
+    "category": "Pashmina",
+    "material": "Modal Viscose",
+    "retailPrice": 57000,
+    "pricingStatus": "verified",
+    "description": "Dua nuansa dalam satu pashmina. Jelajahi 12 perpaduan warna Gradasi, dari Blushy Rose hingga Pearl Black, untuk cerita gaya yang berbeda.",
+    "measurements": null,
+    "images": [
+      "gradasi.webp",
+      "gradasi-alt.webp"
+    ],
+    "variants": [
+      {
+        "id": "blushy-rose",
+        "name": "Blushy Rose",
+        "hex": "#d7b2c9",
+        "image": "gradasi.webp",
+        "family": "Pink"
+      },
+      {
+        "id": "ash-charcoal",
+        "name": "Ash Charcoal",
+        "hex": "#656166",
+        "image": "gradasi-ash.webp",
+        "family": "Hitam"
+      },
+      {
+        "id": "creamy-nude",
+        "name": "Creamy Nude",
+        "hex": "#d8c5b4",
+        "image": "gradasi-cream.webp",
+        "family": "Taupe"
+      },
+      {
+        "id": "burnt-maho",
+        "name": "Burnt Maho",
+        "hex": "#9d614e",
+        "family": "Taupe",
+        "image": "gradasi-burnt-maho.webp"
+      },
+      {
+        "id": "cobalt-blue",
+        "name": "Cobalt Blue",
+        "hex": "#899ec1",
+        "family": "Biru",
+        "image": "gradasi-cobalt-blue.webp"
+      },
+      {
+        "id": "cool-grey",
+        "name": "Cool Grey",
+        "hex": "#96969d",
+        "family": "Taupe",
+        "image": "gradasi-cool-grey.webp"
+      },
+      {
+        "id": "cosmic-mauve",
+        "name": "Cosmic Mauve",
+        "hex": "#a990ac",
+        "family": "Lavender",
+        "image": "gradasi-cosmic-mauve.webp"
+      },
+      {
+        "id": "fresh-lemon",
+        "name": "Fresh Lemon",
+        "hex": "#d4d898",
+        "family": "Hijau",
+        "image": "gradasi-fresh-lemon.webp"
+      },
+      {
+        "id": "pale-olive",
+        "name": "Pale Olive",
+        "hex": "#a7ad8c",
+        "family": "Hijau",
+        "image": "gradasi-pale-olive.webp"
+      },
+      {
+        "id": "pearl-black",
+        "name": "Pearl Black",
+        "hex": "#57525d",
+        "family": "Hitam",
+        "image": "gradasi-pearl-black.webp"
+      },
+      {
+        "id": "rose-madder",
+        "name": "Rose Madder",
+        "hex": "#a8667c",
+        "family": "Pink",
+        "image": "gradasi-rose-madder.webp"
+      },
+      {
+        "id": "stormy-laven",
+        "name": "Stormy Laven",
+        "hex": "#aaa3c0",
+        "family": "Lavender",
+        "image": "gradasi-stormy-laven.webp"
+      }
+    ],
+    "colorFamily": "Pink",
+    "featured": true,
+    "availabilityStatus": "confirm",
+    "pricingSource": "brand",
+    "legacyVariants": [],
+    "modelImages": [
+      "gradasi.webp",
+      "gradasi-alt.webp"
+    ]
+  },
+  {
+    "id": "paris-legend",
+    "slug": "paris-legend",
+    "name": "Paris Jadul",
+    "category": "Segi Empat",
+    "material": "Paris Basic Ori",
+    "retailPrice": 25000,
+    "pricingStatus": "verified",
+    "description": "Koleksi Paris Jadul dalam bentuk segi empat klasik. Dari warna netral hingga nuansa cerah, pilih warna favoritmu melalui pilihan di bawah.",
+    "measurements": "110 × 110 cm",
+    "images": [
+      "paris.webp",
+      "paris-alt.webp"
+    ],
+    "variants": [
+      {
+        "id": "mustard",
+        "name": "Mustard",
+        "contain": true,
+        "hex": "#c29551",
+        "family": "Taupe",
+        "image": "shade-2b2bdfa335abe0.webp"
+      },
+      {
+        "id": "dark-latte",
+        "name": "Dark Latte",
+        "contain": true,
+        "hex": "#81665a",
+        "family": "Taupe",
+        "image": "shade-4a7448bc0245e8.webp"
+      },
+      {
+        "id": "butter-cream",
+        "name": "Butter Cream",
+        "contain": true,
+        "hex": "#a99e77",
+        "family": "Putih",
+        "image": "shade-9747ddcfeda6e4.webp"
+      },
+      {
+        "id": "choco",
+        "name": "Choco",
+        "contain": true,
+        "hex": "#6e4e57",
+        "family": "Taupe",
+        "image": "shade-3341f12197cd15.webp"
+      },
+      {
+        "id": "beet-red",
+        "name": "Beet Red",
+        "contain": true,
+        "hex": "#bbb19e",
+        "family": "Pink",
+        "image": "shade-eb1d5e2be8074f.webp"
+      },
+      {
+        "id": "dusty",
+        "name": "Dusty",
+        "contain": true,
+        "hex": "#c09597",
+        "family": "Taupe",
+        "image": "shade-e5fee6fce1bfc8.webp"
+      },
+      {
+        "id": "baby-pink",
+        "name": "Baby Pink",
+        "contain": true,
+        "hex": "#ba8d84",
+        "family": "Pink",
+        "image": "shade-355e1c221875b6.webp"
+      },
+      {
+        "id": "dusky-rose",
+        "name": "Dusky Rose",
+        "contain": true,
+        "hex": "#d0b9ab",
+        "family": "Pink",
+        "image": "shade-ba2f771d8af370.webp"
+      },
+      {
+        "id": "vanilla",
+        "name": "Vanilla",
+        "contain": true,
+        "hex": "#d7cab2",
+        "family": "Putih",
+        "image": "shade-91f0b57e2ff86f.webp"
+      },
+      {
+        "id": "abalone",
+        "name": "Abalone",
+        "contain": true,
+        "hex": "#cfbeb3",
+        "family": "Taupe",
+        "image": "shade-911251a4ea3932.webp"
+      },
+      {
+        "id": "latte",
+        "name": "Latte",
+        "contain": true,
+        "hex": "#cdafa0",
+        "family": "Taupe",
+        "image": "shade-779d987300c968.webp"
+      },
+      {
+        "id": "electric-blue",
+        "name": "Electric Blue",
+        "contain": true,
+        "hex": "#252796",
+        "family": "Biru",
+        "image": "shade-95bb6ce56180c1.webp"
+      },
+      {
+        "id": "maroon",
+        "name": "Maroon",
+        "contain": true,
+        "hex": "#882135",
+        "family": "Pink",
+        "image": "shade-d3ea1e17f0bcf6.webp"
+      },
+      {
+        "id": "milk-tea",
+        "name": "Milk Tea",
+        "contain": true,
+        "hex": "#c1965a",
+        "family": "Taupe",
+        "image": "shade-291574e0e51dce.webp"
+      },
+      {
+        "id": "midnight",
+        "name": "Midnight",
+        "contain": true,
+        "hex": "#4c435a",
+        "family": "Hitam",
+        "image": "shade-d48e9ea9c94b79.webp"
+      },
+      {
+        "id": "flint",
+        "name": "Flint",
+        "contain": true,
+        "hex": "#b69dbd",
+        "family": "Taupe",
+        "image": "shade-e1a22586501ed5.webp"
+      },
+      {
+        "id": "olive",
+        "name": "Olive",
+        "contain": true,
+        "hex": "#7a6045",
+        "family": "Hijau",
+        "image": "shade-17e64695b9295a.webp"
+      },
+      {
+        "id": "red",
+        "name": "Red",
+        "contain": true,
+        "hex": "#d3213e",
+        "family": "Pink",
+        "image": "shade-089a764acc2e36.webp"
+      },
+      {
+        "id": "sage",
+        "name": "Sage",
+        "contain": true,
+        "hex": "#837e68",
+        "family": "Hijau",
+        "image": "shade-dd3d566c11a6b7.webp"
+      },
+      {
+        "id": "sand",
+        "name": "Sand",
+        "contain": true,
+        "hex": "#bba79b",
+        "family": "Taupe",
+        "image": "shade-f55d57c81e2c09.webp"
+      },
+      {
+        "id": "pink-powder",
+        "name": "Pink Powder",
+        "contain": true,
+        "hex": "#89716b",
+        "family": "Pink",
+        "image": "shade-edd030bb1665d9.webp"
+      },
+      {
+        "id": "tan",
+        "name": "Tan",
+        "contain": true,
+        "hex": "#a99286",
+        "family": "Taupe",
+        "image": "shade-d2971e7010e0da.webp"
+      },
+      {
+        "id": "tea-flower",
+        "name": "Tea Flower",
+        "contain": true,
+        "hex": "#bcad92",
+        "family": "Taupe",
+        "image": "shade-f4607590263775.webp"
+      },
+      {
+        "id": "soft-pink",
+        "name": "Soft Pink",
+        "contain": true,
+        "hex": "#b5a08d",
+        "family": "Pink",
+        "image": "shade-10d474dc5cd531.webp"
+      },
+      {
+        "id": "white",
+        "name": "White",
+        "contain": true,
+        "hex": "#b2aded",
+        "family": "Putih",
+        "image": "shade-64cece2971208a.webp"
+      },
+      {
+        "id": "waffle",
+        "name": "Waffle",
+        "contain": true,
+        "hex": "#725c4c",
+        "family": "Taupe",
+        "image": "shade-7ecada2166b9a8.webp"
+      },
+      {
+        "id": "almond-beige",
+        "name": "Almond Beige",
+        "contain": true,
+        "hex": "#846d60",
+        "family": "Taupe",
+        "image": "shade-9571d0370acf5c.webp"
+      },
+      {
+        "id": "alice-blue",
+        "name": "Alice Blue",
+        "contain": true,
+        "hex": "#6a799d",
+        "family": "Biru",
+        "image": "shade-24135175350f93.webp"
+      },
+      {
+        "id": "british-army",
+        "name": "British Army",
+        "contain": true,
+        "hex": "#2c4950",
+        "family": "Hijau",
+        "image": "shade-472de078cddb11.webp"
+      },
+      {
+        "id": "beige",
+        "name": "Beige",
+        "contain": true,
+        "hex": "#a18c73",
+        "family": "Taupe",
+        "image": "shade-8577692cc050d7.webp"
+      },
+      {
+        "id": "brownie",
+        "name": "Brownie",
+        "contain": true,
+        "hex": "#5e3d3b",
+        "family": "Taupe",
+        "image": "shade-171b60cac139ea.webp"
+      },
+      {
+        "id": "butter-yellow",
+        "name": "Butter Yellow",
+        "contain": true,
+        "hex": "#c5a779",
+        "family": "Taupe",
+        "image": "shade-e92e4a679f1bf1.webp"
+      },
+      {
+        "id": "coffee",
+        "name": "Coffee",
+        "contain": true,
+        "hex": "#3b2426",
+        "family": "Taupe",
+        "image": "shade-a233bc78a2fc5f.webp"
+      },
+      {
+        "id": "charcoal",
+        "name": "Charcoal",
+        "contain": true,
+        "hex": "#77665d",
+        "family": "Hitam",
+        "image": "shade-864934847ad1ec.webp"
+      },
+      {
+        "id": "ash",
+        "name": "Ash",
+        "contain": true,
+        "hex": "#887c71",
+        "family": "Taupe",
+        "image": "shade-703655fb19ef3b.webp"
+      },
+      {
+        "id": "lilac",
+        "name": "Lilac",
+        "contain": true,
+        "hex": "#a095bc",
+        "family": "Lavender",
+        "image": "shade-7aec166d04cdd0.webp"
+      },
+      {
+        "id": "black",
+        "name": "Black",
+        "contain": true,
+        "hex": "#100d1a",
+        "family": "Hitam",
+        "image": "shade-4a2104e8921686.webp"
+      },
+      {
+        "id": "dark-navy",
+        "name": "Dark Navy",
+        "contain": true,
+        "hex": "#292341",
+        "family": "Hitam",
+        "image": "shade-b3660826ac6651.webp"
+      },
+      {
+        "id": "deep-denim",
+        "name": "Deep Denim",
+        "contain": true,
+        "hex": "#636383",
+        "family": "Biru",
+        "image": "shade-884934315323e6.webp"
+      },
+      {
+        "id": "dim-grey",
+        "name": "Dim Grey",
+        "contain": true,
+        "hex": "#433b30",
+        "family": "Taupe",
+        "image": "shade-adae8d51712644.webp"
+      },
+      {
+        "id": "heather",
+        "name": "Heather",
+        "contain": true,
+        "hex": "#576698",
+        "family": "Biru",
+        "image": "shade-e8b4b8d21be825.webp"
+      },
+      {
+        "id": "fresh-emerald",
+        "name": "Fresh Emerald",
+        "contain": true,
+        "hex": "#0b6965",
+        "family": "Taupe",
+        "image": "shade-110d7b9d7626fa.webp"
+      },
+      {
+        "id": "ivory",
+        "name": "Ivory",
+        "contain": true,
+        "hex": "#927d59",
+        "family": "Putih",
+        "image": "shade-4a9fa6a354fc4b.webp"
+      },
+      {
+        "id": "jeans",
+        "name": "Jeans",
+        "contain": true,
+        "hex": "#475483",
+        "family": "Biru",
+        "image": "shade-49cd7ae36a7c29.webp"
+      },
+      {
+        "id": "kale",
+        "name": "Kale",
+        "contain": true,
+        "hex": "#5b4d45",
+        "family": "Hijau",
+        "image": "shade-d514e79b926b37.webp"
+      },
+      {
+        "id": "lilac-grey",
+        "name": "Lilac Grey",
+        "contain": true,
+        "hex": "#78626d",
+        "family": "Lavender",
+        "image": "shade-0d114b23fa9837.webp"
+      },
+      {
+        "id": "mint",
+        "name": "Mint",
+        "contain": true,
+        "hex": "#929792",
+        "family": "Hijau",
+        "image": "shade-a6744904dbfb9e.webp"
+      },
+      {
+        "id": "dark-coffee",
+        "name": "Dark Coffee",
+        "contain": true,
+        "hex": "#2a1c1c",
+        "family": "Taupe",
+        "image": "shade-e20003699c3591.webp"
+      },
+      {
+        "id": "navy",
+        "name": "Navy",
+        "contain": true,
+        "hex": "#17194d",
+        "family": "Hitam",
+        "image": "shade-022bef774a1482.webp"
+      },
+      {
+        "id": "nude",
+        "name": "Nude",
+        "contain": true,
+        "hex": "#876760",
+        "family": "Taupe",
+        "image": "shade-41c0e0356dead8.webp"
+      },
+      {
+        "id": "pine",
+        "name": "Pine",
+        "contain": true,
+        "hex": "#06697f",
+        "family": "Hijau",
+        "image": "shade-8ab726b90f9fca.webp"
+      },
+      {
+        "id": "misty-grey",
+        "name": "Misty Grey",
+        "contain": true,
+        "hex": "#575350",
+        "family": "Taupe",
+        "image": "shade-af75d3f5433ac5.webp"
+      },
+      {
+        "id": "silver",
+        "name": "Silver",
+        "contain": true,
+        "hex": "#aa9594",
+        "family": "Taupe",
+        "image": "shade-e4f0f93097f7bc.webp"
+      },
+      {
+        "id": "storm",
+        "name": "Storm",
+        "contain": true,
+        "hex": "#6b5e5f",
+        "family": "Taupe",
+        "image": "shade-f94b954b20bec3.webp"
+      },
+      {
+        "id": "red-cherry",
+        "name": "Red Cherry",
+        "contain": true,
+        "hex": "#5e1e36",
+        "family": "Pink",
+        "image": "shade-15e52ea52239e7.webp"
+      },
+      {
+        "id": "wine",
+        "name": "Wine",
+        "contain": true,
+        "hex": "#741d45",
+        "family": "Pink",
+        "image": "shade-b10667d6dfbeed.webp"
+      },
+      {
+        "id": "taro",
+        "name": "Taro",
+        "contain": true,
+        "hex": "#8a6b8c",
+        "family": "Lavender",
+        "image": "shade-2e64f2cbba8578.webp"
+      },
+      {
+        "id": "burgundy",
+        "name": "Burgundy",
+        "contain": true,
+        "reference": true,
+        "hex": "#70253d",
+        "family": "Pink",
+        "image": "shade-38f9153bf63a64.webp"
+      },
+      {
+        "id": "blush",
+        "name": "Blush",
+        "contain": true,
+        "reference": true,
+        "hex": "#d7b7bb",
+        "family": "Pink",
+        "image": "shade-38f9153bf63a64.webp"
+      },
+      {
+        "id": "almond",
+        "name": "Almond",
+        "contain": true,
+        "reference": true,
+        "hex": "#bca68f",
+        "family": "Taupe",
+        "image": "shade-38f9153bf63a64.webp"
+      },
+      {
+        "id": "pink-salt",
+        "name": "Pink Salt",
+        "contain": true,
+        "reference": true,
+        "hex": "#d0a5b1",
+        "family": "Pink",
+        "image": "shade-38f9153bf63a64.webp"
+      },
+      {
+        "id": "espreso",
+        "name": "Espreso",
+        "contain": true,
+        "reference": true,
+        "hex": "#7e6d65",
+        "family": "Taupe",
+        "image": "shade-38f9153bf63a64.webp"
+      },
+      {
+        "id": "khaki",
+        "name": "Khaki",
+        "contain": true,
+        "reference": true,
+        "hex": "#b5a4ab",
+        "family": "Taupe",
+        "image": "shade-38f9153bf63a64.webp"
+      },
+      {
+        "id": "biscuit",
+        "name": "Biscuit",
+        "contain": true,
+        "reference": true,
+        "hex": "#c8c3ba",
+        "family": "Taupe",
+        "image": "shade-38f9153bf63a64.webp"
+      },
+      {
+        "id": "fossil",
+        "name": "Fossil",
+        "contain": true,
+        "hex": "#a79389",
+        "family": "Taupe",
+        "image": "shade-99b73ac4232386.webp"
+      }
+    ],
+    "colorFamily": "Lavender",
+    "featured": true,
+    "availabilityStatus": "confirm",
+    "legacyIds": [
+      "paris-jadul"
+    ],
+    "aliases": [
+      "Paris Jadul",
+      "Paris Klasik"
+    ],
+    "pricingSource": "brand",
+    "legacyVariants": [
+      {
+        "id": "sesuai-foto",
+        "name": "Lavender · sesuai foto",
+        "hex": "#bab1bf",
+        "image": "paris.webp"
+      }
+    ],
+    "referenceImages": [
+      "shade-38f9153bf63a64.webp"
+    ],
+    "modelImages": [
+      "paris.webp",
+      "paris-alt.webp"
+    ]
+  },
+  {
+    "id": "hayla-khiban",
+    "slug": "hayla-khiban",
+    "name": "Hayla Khiban",
+    "category": "Khimar",
+    "material": "Rayon Airflow",
+    "retailPrice": 40000,
+    "pricingStatus": "verified",
+    "description": "Khimar bandana Hayla berbahan Rayon Airflow. Pilihan dengan nuansa netral yang mudah dipadukan dengan busana sehari-hari.",
+    "measurements": null,
+    "images": [
+      "hayla.webp"
+    ],
+    "variants": [
+      {
+        "id": "misty-grey",
+        "name": "Misty Grey",
+        "contain": true,
+        "hex": "#c3b7bd",
+        "family": "Taupe",
+        "image": "shade-6ce9cf5b25ac47.webp"
+      },
+      {
+        "id": "soft-lilac",
+        "name": "Soft Lilac",
+        "contain": true,
+        "hex": "#ccadb4",
+        "family": "Lavender",
+        "image": "shade-edbbfa05d19dec.webp"
+      },
+      {
+        "id": "dark-milo",
+        "name": "Dark Milo",
+        "contain": true,
+        "hex": "#aa817a",
+        "family": "Taupe",
+        "image": "shade-a68bc92e2b9b9d.webp"
+      },
+      {
+        "id": "navy",
+        "name": "Navy",
+        "contain": true,
+        "hex": "#1a172b",
+        "family": "Hitam",
+        "image": "shade-66d77d71c2136d.webp"
+      },
+      {
+        "id": "beige",
+        "name": "Beige",
+        "contain": true,
+        "hex": "#cebcb4",
+        "family": "Taupe",
+        "image": "shade-6f438feaaad819.webp"
+      },
+      {
+        "id": "earth",
+        "name": "Earth",
+        "contain": true,
+        "hex": "#ccbcb8",
+        "family": "Taupe",
+        "image": "shade-3d8e1885fffdc0.webp"
+      },
+      {
+        "id": "mahogany",
+        "name": "Mahogany",
+        "contain": true,
+        "hex": "#331118",
+        "family": "Taupe",
+        "image": "shade-2ce18ba88099f5.webp"
+      },
+      {
+        "id": "biscuit",
+        "name": "Biscuit",
+        "contain": true,
+        "hex": "#baaaa9",
+        "family": "Taupe",
+        "image": "shade-e434e27b463e08.webp"
+      },
+      {
+        "id": "storm",
+        "name": "Storm",
+        "contain": true,
+        "hex": "#b0a4aa",
+        "family": "Taupe",
+        "image": "shade-a86f5cda96b66a.webp"
+      },
+      {
+        "id": "dusty",
+        "name": "Dusty",
+        "contain": true,
+        "hex": "#c39195",
+        "family": "Taupe",
+        "image": "shade-8abcf52c41fc41.webp"
+      },
+      {
+        "id": "midnight",
+        "name": "Midnight",
+        "contain": true,
+        "hex": "#312436",
+        "family": "Hitam",
+        "image": "shade-f9964da889c265.webp"
+      },
+      {
+        "id": "sand",
+        "name": "Sand",
+        "contain": true,
+        "hex": "#c6a698",
+        "family": "Taupe",
+        "image": "shade-d5c0ad3e048a8f.webp"
+      },
+      {
+        "id": "deep-almond",
+        "name": "Deep Almond",
+        "contain": true,
+        "hex": "#9c8778",
+        "family": "Taupe",
+        "image": "shade-f9cde5ca6c3fde.webp"
+      },
+      {
+        "id": "creamy-latte",
+        "name": "Creamy Latte",
+        "contain": true,
+        "hex": "#dec6bb",
+        "family": "Taupe",
+        "image": "shade-ca4d6d763a3fc0.webp"
+      },
+      {
+        "id": "olive",
+        "name": "Olive",
+        "contain": true,
+        "hex": "#8a6354",
+        "family": "Hijau",
+        "image": "shade-faf80700cfe002.webp"
+      },
+      {
+        "id": "almond-beige",
+        "name": "Almond Beige",
+        "contain": true,
+        "hex": "#b29981",
+        "family": "Taupe",
+        "image": "shade-2b836acb33c391.webp"
+      },
+      {
+        "id": "butter-cream",
+        "name": "Butter Cream",
+        "contain": true,
+        "hex": "#c4b5ab",
+        "family": "Putih",
+        "image": "shade-13d1aee7eee9c3.webp"
+      },
+      {
+        "id": "nude",
+        "name": "Nude",
+        "contain": true,
+        "hex": "#dbc2ba",
+        "family": "Taupe",
+        "image": "shade-2d6ab9adc6d312.webp"
+      }
+    ],
+    "colorFamily": "Taupe",
+    "featured": false,
+    "availabilityStatus": "confirm",
+    "pricingSource": "brand",
+    "legacyVariants": [
+      {
+        "id": "sesuai-foto",
+        "name": "Taupe · sesuai foto",
+        "hex": "#b9a79a",
+        "image": "hayla.webp",
+        "family": "Taupe"
+      }
+    ],
+    "modelImages": [
+      "hayla.webp"
+    ]
+  },
+  {
+    "id": "zea-sport-instan",
+    "slug": "zea-sport-instan",
+    "name": "Zea Sport",
+    "category": "Hijab Instan",
+    "material": null,
+    "retailPrice": 37000,
+    "pricingStatus": "verified",
+    "measurements": null,
+    "description": "Hijab instan dari koleksi Zea Sport dengan siluet pendek dan detail tali pada foto. Pilih nuansa pink atau taupe sesuai tampilan katalog. Konfirmasikan bahan, ukuran, dan ketersediaannya bersama kami.",
+    "images": [
+      "zea-sport-instan.webp",
+      "zea-sport-instan-alt.webp"
+    ],
+    "variants": [
+      {
+        "id": "pink-foto",
+        "name": "Pink · sesuai foto",
+        "hex": "#bd7b87",
+        "image": "zea-sport-instan.webp",
+        "family": "Pink"
+      },
+      {
+        "id": "taupe-foto",
+        "name": "Taupe · sesuai foto",
+        "hex": "#a6a099",
+        "image": "zea-sport-instan-alt.webp",
+        "family": "Taupe"
+      }
+    ],
+    "colorFamily": "Pink",
+    "featured": false,
+    "availabilityStatus": "confirm",
+    "pricingSource": "brand",
+    "legacyVariants": [],
+    "modelImages": [
+      "zea-sport-instan.webp",
+      "zea-sport-instan-alt.webp"
+    ]
+  },
+  {
+    "id": "inner-tali",
+    "slug": "inner-tali",
+    "name": "Ciput",
+    "category": "Ciput",
+    "retailPrice": 17000,
+    "pricingStatus": "verified",
+    "material": "Modal Tencel",
+    "measurements": null,
+    "description": "Ciput / Inner Tali tersedia untuk ditanyakan langsung kepada kami. Hubungi kami untuk melihat foto, memilih warna, dan memastikan detail produk sebelum memesan.",
+    "images": [],
+    "variants": [],
+    "colorFamily": "",
+    "featured": false,
+    "availabilityStatus": "confirm",
+    "photoStatus": "pending",
+    "pricingSource": "brand",
+    "aliases": [
+      "Ciput",
+      "Inner Tali"
+    ],
+    "legacyVariants": []
+  },
+  {
+    "id": "pashmina-airflow",
+    "slug": "pashmina-airflow",
+    "name": "Pashmina Airflow",
+    "category": "Pashmina",
+    "material": "Bamboo Airtech",
+    "retailPrice": 47000,
+    "pricingStatus": "verified",
+    "pricingSource": "brand",
+    "description": "Pashmina berbahan Bamboo Airtech dengan siluet memanjang. Pilih warna yang melengkapi padanan busanamu.",
+    "measurements": null,
+    "images": [
+      "airtech.webp"
+    ],
+    "variants": [
+      {
+        "id": "black",
+        "name": "Black",
+        "contain": true,
+        "hex": "#0e0d16",
+        "family": "Hitam",
+        "image": "shade-1aa5e35aabe887.webp"
+      },
+      {
+        "id": "dark-navy",
+        "name": "Dark Navy",
+        "contain": true,
+        "hex": "#08081d",
+        "family": "Hitam",
+        "image": "shade-5469b9da86788a.webp"
+      },
+      {
+        "id": "dark-espreso",
+        "name": "Dark Espreso",
+        "contain": true,
+        "hex": "#a69a9e",
+        "family": "Taupe",
+        "image": "shade-76261419b62cc6.webp"
+      },
+      {
+        "id": "hazel",
+        "name": "Hazel",
+        "contain": true,
+        "hex": "#b6b0b9",
+        "family": "Taupe",
+        "image": "shade-660bc087664f9d.webp"
+      },
+      {
+        "id": "latte",
+        "name": "Latte",
+        "contain": true,
+        "hex": "#b5afb1",
+        "family": "Taupe",
+        "image": "shade-53e6e2c2881d26.webp"
+      },
+      {
+        "id": "flint",
+        "name": "Flint",
+        "contain": true,
+        "hex": "#b8b5c2",
+        "family": "Taupe",
+        "image": "shade-4149f444d8951a.webp"
+      },
+      {
+        "id": "orchid",
+        "name": "Orchid",
+        "contain": true,
+        "hex": "#cfc1c9",
+        "family": "Taupe",
+        "image": "shade-6b7f8c3ee15b17.webp"
+      },
+      {
+        "id": "pink-nude",
+        "name": "Pink Nude",
+        "contain": true,
+        "hex": "#e0d8df",
+        "family": "Pink",
+        "image": "shade-44e95137090f3e.webp"
+      }
+    ],
+    "colorFamily": "Taupe",
+    "featured": false,
+    "availabilityStatus": "confirm",
+    "legacyVariants": [
+      {
+        "id": "sesuai-foto",
+        "name": "Taupe · sesuai foto",
+        "hex": "#b6a2a8",
+        "image": "airtech.webp"
+      }
+    ],
+    "modelImages": [
+      "airtech.webp"
+    ],
+    "aliases": [
+      "Pashmina Airtech Ultrasoft",
+      "Airtech"
+    ]
+  }
+]
