@@ -1308,5 +1308,24 @@
       "Pashmina Airtech Ultrasoft",
       "Airtech"
     ]
+  },
+  {
+    "id": "pashmina-tencel",
+    "slug": "pashmina-tencel",
+    "name": "Pashmina Tencel",
+    "category": "Pashmina",
+    "retailPrice": 45000,
+    "pricingStatus": "verified",
+    "pricingSource": "brand",
+    "material": "Tencel",
+    "measurements": null,
+    "description": "Pashmina Tencel tersedia untuk ditanyakan langsung kepada kami. Hubungi kami untuk melihat foto, memilih warna, dan memastikan detail produk sebelum memesan.",
+    "images": [],
+    "variants": [],
+    "colorFamily": "",
+    "featured": false,
+    "availabilityStatus": "confirm",
+    "photoStatus": "pending",
+    "legacyVariants": []
   }
 ]

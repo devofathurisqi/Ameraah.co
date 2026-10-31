@@ -9,10 +9,10 @@ const products=load('products.json'),prices=load('prices.json'),retail=load('ret
 const line=(p,n=1,v=p.variants[0].id)=>({productId:p.id,variantId:v,quantity:n});
 
 test('catalog prices follow this brand’s exact authorized source',()=>{
- assert.equal(products.length,config.key==='ameraah'?7:27);
+ assert.equal(products.length,config.key==='ameraah'?8:27);
  assert.equal(new Set(products.map(p=>p.id)).size,products.length);
  assert.equal(new Set(products.map(p=>p.slug)).size,products.length);
- if(config.key==='ameraah')assert.deepEqual(prices,{'modal-viscose':48000,'viscose-gradasi':57000,'paris-legend':25000,'hayla-khiban':40000,'inner-tali':17000,'zea-sport-instan':37000,'pashmina-airflow':47000});
+ if(config.key==='ameraah')assert.deepEqual(prices,{'modal-viscose':48000,'viscose-gradasi':57000,'paris-legend':25000,'hayla-khiban':40000,'inner-tali':17000,'zea-sport-instan':37000,'pashmina-airflow':47000,'pashmina-tencel':45000});
  else assert.deepEqual(prices,{});
  for(const p of products){const expected=prices[p.id]??retail[p.id]??null;assert.equal(p.retailPrice,expected,p.id);assert.equal(p.pricingSource,config.key==='ameraah'?'brand':expected===null?'unresolved':'retail');assert.equal(p.pricingStatus,expected===null?'inquiry':'verified');assert.equal(p.availabilityStatus,'confirm');}
 });
