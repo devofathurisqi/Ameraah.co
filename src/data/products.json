@@ -986,165 +986,150 @@
     ],
     "variants": [
       {
-        "id": "misty-grey",
-        "name": "Misty Grey",
-        "contain": true,
-        "hex": "#c3b7bd",
-        "family": "Taupe",
-        "image": "shade-6ce9cf5b25ac47.webp"
-      },
-      {
-        "id": "soft-lilac",
-        "name": "Soft Lilac",
-        "contain": true,
-        "hex": "#ccadb4",
-        "family": "Lavender",
-        "image": "shade-edbbfa05d19dec.webp"
-      },
-      {
-        "id": "dark-milo",
-        "name": "Dark Milo",
-        "contain": true,
-        "hex": "#aa817a",
-        "family": "Taupe",
-        "image": "shade-a68bc92e2b9b9d.webp"
-      },
-      {
-        "id": "navy",
-        "name": "Navy",
-        "contain": true,
-        "hex": "#1a172b",
+        "id": "black",
+        "name": "Black",
+        "hex": "#282730",
         "family": "Hitam",
-        "image": "shade-66d77d71c2136d.webp"
-      },
-      {
-        "id": "beige",
-        "name": "Beige",
+        "image": "hayla-khiban-colors-2026-10.webp",
         "contain": true,
-        "hex": "#cebcb4",
-        "family": "Taupe",
-        "image": "shade-6f438feaaad819.webp"
-      },
-      {
-        "id": "earth",
-        "name": "Earth",
-        "contain": true,
-        "hex": "#ccbcb8",
-        "family": "Taupe",
-        "image": "shade-3d8e1885fffdc0.webp"
-      },
-      {
-        "id": "mahogany",
-        "name": "Mahogany",
-        "contain": true,
-        "hex": "#331118",
-        "family": "Taupe",
-        "image": "shade-2ce18ba88099f5.webp"
-      },
-      {
-        "id": "biscuit",
-        "name": "Biscuit",
-        "contain": true,
-        "hex": "#baaaa9",
-        "family": "Taupe",
-        "image": "shade-e434e27b463e08.webp"
-      },
-      {
-        "id": "storm",
-        "name": "Storm",
-        "contain": true,
-        "hex": "#b0a4aa",
-        "family": "Taupe",
-        "image": "shade-a86f5cda96b66a.webp"
+        "reference": true
       },
       {
         "id": "dusty",
         "name": "Dusty",
+        "hex": "#d0b0b7",
+        "family": "Pink",
+        "image": "hayla-khiban-colors-2026-10.webp",
         "contain": true,
-        "hex": "#c39195",
-        "family": "Taupe",
-        "image": "shade-8abcf52c41fc41.webp"
+        "reference": true
       },
       {
-        "id": "midnight",
-        "name": "Midnight",
+        "id": "milo",
+        "name": "Milo",
+        "hex": "#af9ca1",
+        "family": "Taupe",
+        "image": "hayla-khiban-colors-2026-10.webp",
         "contain": true,
-        "hex": "#312436",
+        "reference": true
+      },
+      {
+        "id": "mahogany",
+        "name": "Mahogany",
+        "hex": "#472a2f",
+        "family": "Pink",
+        "image": "hayla-khiban-colors-2026-10.webp",
+        "contain": true,
+        "reference": true
+      },
+      {
+        "id": "sheer-blue",
+        "name": "Sheer Blue",
+        "hex": "#8089b4",
+        "family": "Biru",
+        "image": "hayla-khiban-colors-2026-10.webp",
+        "contain": true,
+        "reference": true
+      },
+      {
+        "id": "cookie",
+        "name": "Cookie",
+        "hex": "#e1cfd2",
+        "family": "Taupe",
+        "image": "hayla-khiban-colors-2026-10.webp",
+        "contain": true,
+        "reference": true
+      },
+      {
+        "id": "navy",
+        "name": "Navy",
+        "hex": "#1a1b3a",
         "family": "Hitam",
-        "image": "shade-f9964da889c265.webp"
+        "image": "hayla-khiban-colors-2026-10.webp",
+        "contain": true,
+        "reference": true
       },
       {
-        "id": "sand",
-        "name": "Sand",
-        "contain": true,
-        "hex": "#c6a698",
+        "id": "misty-grey",
+        "name": "Misty Grey",
+        "hex": "#a5a2ac",
         "family": "Taupe",
-        "image": "shade-d5c0ad3e048a8f.webp"
+        "image": "hayla-khiban-colors-2026-10.webp",
+        "contain": true,
+        "reference": true
       },
       {
-        "id": "deep-almond",
-        "name": "Deep Almond",
-        "contain": true,
-        "hex": "#9c8778",
+        "id": "smoke",
+        "name": "Smoke",
+        "hex": "#99909c",
         "family": "Taupe",
-        "image": "shade-f9cde5ca6c3fde.webp"
+        "image": "hayla-khiban-colors-2026-10.webp",
+        "contain": true,
+        "reference": true
       },
       {
-        "id": "creamy-latte",
-        "name": "Creamy Latte",
-        "contain": true,
-        "hex": "#dec6bb",
+        "id": "ash",
+        "name": "Ash",
+        "hex": "#443c44",
         "family": "Taupe",
-        "image": "shade-ca4d6d763a3fc0.webp"
+        "image": "hayla-khiban-colors-2026-10.webp",
+        "contain": true,
+        "reference": true
       },
       {
-        "id": "olive",
-        "name": "Olive",
+        "id": "vanila",
+        "name": "Vanila",
+        "hex": "#beb2b3",
+        "family": "Putih",
+        "image": "hayla-khiban-colors-2026-10.webp",
         "contain": true,
-        "hex": "#8a6354",
-        "family": "Hijau",
-        "image": "shade-faf80700cfe002.webp"
+        "reference": true
       },
       {
-        "id": "almond-beige",
-        "name": "Almond Beige",
-        "contain": true,
-        "hex": "#b29981",
+        "id": "beige",
+        "name": "Beige",
+        "hex": "#cdcbcc",
         "family": "Taupe",
-        "image": "shade-2b836acb33c391.webp"
+        "image": "hayla-khiban-colors-2026-10.webp",
+        "contain": true,
+        "reference": true
+      },
+      {
+        "id": "frappe",
+        "name": "Frappe",
+        "hex": "#766364",
+        "family": "Taupe",
+        "image": "hayla-khiban-colors-2026-10.webp",
+        "contain": true,
+        "reference": true
       },
       {
         "id": "butter-cream",
-        "name": "Butter Cream",
-        "contain": true,
-        "hex": "#c4b5ab",
+        "name": "Buttercream",
+        "hex": "#b3a79f",
         "family": "Putih",
-        "image": "shade-13d1aee7eee9c3.webp"
+        "image": "hayla-khiban-colors-2026-10.webp",
+        "contain": true,
+        "reference": true
       },
       {
-        "id": "nude",
-        "name": "Nude",
-        "contain": true,
-        "hex": "#dbc2ba",
+        "id": "creamy-beige",
+        "name": "Creamy Beige",
+        "hex": "#d9d3d7",
         "family": "Taupe",
-        "image": "shade-2d6ab9adc6d312.webp"
+        "image": "hayla-khiban-colors-2026-10.webp",
+        "contain": true,
+        "reference": true
       }
     ],
     "colorFamily": "Taupe",
     "featured": false,
     "availabilityStatus": "confirm",
     "pricingSource": "brand",
-    "legacyVariants": [
-      {
-        "id": "sesuai-foto",
-        "name": "Taupe · sesuai foto",
-        "hex": "#b9a79a",
-        "image": "hayla.webp",
-        "family": "Taupe"
-      }
-    ],
     "modelImages": [
       "hayla.webp"
+    ],
+    "referenceImages": [
+      "hayla-khiban-colors-2026-10.webp"
     ]
   },
   {

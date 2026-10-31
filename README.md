@@ -14,6 +14,8 @@ Exactly eight collections are authorized: Viscose Polos Rp48,000; Viscose Gradas
 
 Product source: https://drive.google.com/drive/folders/1RwtruDL86PYi3TVqILmxrZgZ_XGT1zPv. The September 2026 PDF was rechecked through connected Drive on 29 October 2026, using the **Ecer** column. Supplier procurement costs and the PDF are excluded from public assets. Stock is not synchronized; the seller confirms availability, delivery charges, and payment.
 
+Hayla Khiban now follows exactly the 15 colors on the client's latest labelled chart, uploaded on 26 October and rechecked through Drive on 31 October 2026. See docs/hayla-color-source.json for the source, exact names, and retired IDs. The older September `warna` exports must not be merged back into the current choices or retained as orderable legacy variants. Every current choice links to the authentic full chart; model photographs remain wearing examples. The Ameraah selling price remains Rp40,000.
+
 ## Architecture
 
 React 19, TypeScript, Vite, React Router. src/pages/Home.tsx and src/theme.css define the brand presentation. src/components/Layout.tsx uses the original logo. Catalog, product detail, favorites, shopping bag, guide, about, and missing-page routes are implemented in src/App.tsx.

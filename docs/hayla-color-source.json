@@ -1,0 +1,121 @@
+{
+  "productId": "hayla-khiban",
+  "checkedOn": "2026-10-31",
+  "sourceFolder": "https://drive.google.com/drive/folders/175T5yLaO_i5353EXt656j-wp5-9IrrFy",
+  "chartFileId": "1yVMDe-KwW9Qb6O1KKoO06qpeR7wOFyNx",
+  "chartUrl": "https://drive.google.com/file/d/1yVMDe-KwW9Qb6O1KKoO06qpeR7wOFyNx/view",
+  "chartTitle": "serian warna hayla khiban",
+  "chartModifiedAt": "2026-10-26T06:32:28.488Z",
+  "sourceBytes": 698929,
+  "sourceSha256": "5a00a375d3e8a231e03e40b975ea06ba10a87eeffd60853fa41a28887088bc19",
+  "referenceImage": "hayla-khiban-colors-2026-10.webp",
+  "policy": "The client-supplied labelled chart is authoritative and replaces the older September individual-color exports. Show exactly these 15 choices. Retired choices are not orderable through saved carts or old links and are never renamed to another color. Model photography remains an example of wearing the garment.",
+  "swatches": "Representative median samples from the original chart, without changing the photograph. The full labelled photo remains the color reference.",
+  "colors": [
+    {
+      "id": "black",
+      "name": "Black",
+      "hex": "#282730",
+      "family": "Hitam"
+    },
+    {
+      "id": "dusty",
+      "name": "Dusty",
+      "hex": "#d0b0b7",
+      "family": "Pink"
+    },
+    {
+      "id": "milo",
+      "name": "Milo",
+      "hex": "#af9ca1",
+      "family": "Taupe"
+    },
+    {
+      "id": "mahogany",
+      "name": "Mahogany",
+      "hex": "#472a2f",
+      "family": "Pink"
+    },
+    {
+      "id": "sheer-blue",
+      "name": "Sheer Blue",
+      "hex": "#8089b4",
+      "family": "Biru"
+    },
+    {
+      "id": "cookie",
+      "name": "Cookie",
+      "hex": "#e1cfd2",
+      "family": "Taupe"
+    },
+    {
+      "id": "navy",
+      "name": "Navy",
+      "hex": "#1a1b3a",
+      "family": "Hitam"
+    },
+    {
+      "id": "misty-grey",
+      "name": "Misty Grey",
+      "hex": "#a5a2ac",
+      "family": "Taupe"
+    },
+    {
+      "id": "smoke",
+      "name": "Smoke",
+      "hex": "#99909c",
+      "family": "Taupe"
+    },
+    {
+      "id": "ash",
+      "name": "Ash",
+      "hex": "#443c44",
+      "family": "Taupe"
+    },
+    {
+      "id": "vanila",
+      "name": "Vanila",
+      "hex": "#beb2b3",
+      "family": "Putih"
+    },
+    {
+      "id": "beige",
+      "name": "Beige",
+      "hex": "#cdcbcc",
+      "family": "Taupe"
+    },
+    {
+      "id": "frappe",
+      "name": "Frappe",
+      "hex": "#766364",
+      "family": "Taupe"
+    },
+    {
+      "id": "butter-cream",
+      "name": "Buttercream",
+      "hex": "#b3a79f",
+      "family": "Putih"
+    },
+    {
+      "id": "creamy-beige",
+      "name": "Creamy Beige",
+      "hex": "#d9d3d7",
+      "family": "Taupe"
+    }
+  ],
+  "retiredVariantIds": [
+    "soft-lilac",
+    "dark-milo",
+    "earth",
+    "biscuit",
+    "storm",
+    "midnight",
+    "sand",
+    "deep-almond",
+    "creamy-latte",
+    "olive",
+    "almond-beige",
+    "nude",
+    "sesuai-foto"
+  ]
+}

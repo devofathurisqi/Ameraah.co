@@ -1,5 +1,14 @@
 # Verification — 31 October 2026
 
+## Hayla Khiban color correction
+
+- Rechecked the Hayla folder and the 26 October labelled chart through connected Google Drive. The client-supplied chart contains 15 colors; the older September folder exports contained 18 choices and caused the mismatch.
+- Replaced the selectable colors with exactly the current chart names, kept the full authentic chart available for every selection, and sampled the color dots from that photo. Older colors are not retained as orderable legacy variants. The price remains Rp40,000 and all seven other product records are unchanged.
+- `npm test`: 10 tests passed, including the exact chart list and rejection of retired colors in saved carts. `npm run build`: TypeScript, 14 prerendered routes, and all referenced local assets/links passed.
+- Browser checks passed at 390 and 1366px: all 15 selections, chart switching and zoom, exact names and prices in all 30 generated WhatsApp drafts, catalog count, direct links, adding a new color to the bag, and removal of an obsolete saved shade. No overflow, broken images, or browser errors were found. Desktop detail and mobile catalog screenshots were visually reviewed.
+
+## Instagram and Pashmina Tencel revision
+
 - `npm test`: all 8 tests passed with the eight authorized products and prices.
 - `npm run build`: TypeScript, Vite, all 14 prerendered routes, and 55 referenced local assets/links passed verification.
 - Browser checks passed for home, catalog, and Pashmina Tencel detail at 360, 768, and 1366px. No document overflow, broken images, or browser errors were found. Mobile/desktop footer, new product detail/card, and the eight-column collection index were visually inspected.

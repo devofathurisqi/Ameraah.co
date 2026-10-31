@@ -9,5 +9,6 @@
     "inner-tali",
     "pashmina-tencel"
   ],
-  "airflowConfirmation": "User explicitly confirmed on 2026-10-29 that Pashmina Airflow is the same product as Airtech Ultrasoft."
+  "airflowConfirmation": "User explicitly confirmed on 2026-10-29 that Pashmina Airflow is the same product as Airtech Ultrasoft.",
+  "haylaColorSource": "docs/hayla-color-source.json"
 }

@@ -26,6 +26,25 @@ test('all shades are orderable with their exact names and current prices',()=>{
  for(const p of products)for(const v of p.variants){const cart=[line(p,2,v.id)];assert.deepEqual(cleanCart(cart,products),cart);assert.ok(orderMessage(cart,products).includes('Varian: '+v.name));assert.equal(cartSummary(cart,products).subtotal,p.retailPrice===null?0:p.retailPrice*2);}
 });
 
+test('Hayla choices match the client’s current labelled chart exactly',()=>{
+ const hayla=products.find(p=>p.id==='hayla-khiban');
+ assert.deepEqual(hayla.variants.map(v=>v.name),['Black','Dusty','Milo','Mahogany','Sheer Blue','Cookie','Navy','Misty Grey','Smoke','Ash','Vanila','Beige','Frappe','Buttercream','Creamy Beige']);
+ assert.equal(hayla.retailPrice,40000);
+ assert.deepEqual(hayla.referenceImages,['hayla-khiban-colors-2026-10.webp']);
+ assert.equal(hayla.legacyVariants?.length||0,0);
+ for(const v of hayla.variants){assert.equal(v.image,hayla.referenceImages[0]);assert.equal(v.reference,true);assert.equal(v.contain,true);}
+});
+
+test('retired Hayla shades cannot enter orders from an old saved cart',()=>{
+ const hayla=products.find(p=>p.id==='hayla-khiban');
+ const retired=['soft-lilac','dark-milo','earth','biscuit','storm','midnight','sand','deep-almond','creamy-latte','olive','almond-beige','nude','sesuai-foto'];
+ const current=[line(hayla,2,'black'),line(hayla,1,'navy')];
+ const cart=cleanCart([...current,...retired.map(id=>line(hayla,1,id))],products);
+ assert.deepEqual(cart,current);
+ assert.equal(cartSummary(cart,products).subtotal,120000);
+ const message=orderMessage(cart,products);assert.match(message,/Varian: Black/);assert.match(message,/Varian: Navy/);assert.doesNotMatch(message,/Soft Lilac|Dark Milo|sesuai foto/);
+});
+
 test('cart merges duplicate colors, preserves different colors and drops invalid saved data',()=>{
  const p=products.find(p=>p.id==='viscose-gradasi');const cart=cleanCart([line(p,2),line(p,3),line(p,1,p.variants[1].id),null,{},line(p,1,'invalid'),{productId:'removed',variantId:'x',quantity:1}],products);assert.equal(cart.length,2);assert.equal(cart[0].quantity,5);assert.deepEqual(cleanCart(null,products),[]);for(const n of [null,-1,'bad',0])assert.equal(clampQuantity(n),1);assert.equal(clampQuantity(999),99);assert.equal(clampQuantity(2.8),2);
 });
